@@ -1,0 +1,2 @@
+# Case-Leitura-Termopar
+
